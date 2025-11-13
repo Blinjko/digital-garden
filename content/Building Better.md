@@ -1,0 +1,6 @@
+1. Stop trying to figure out everything yourself, read into topics and take notes on how they work rather than spending your time trying to do it yourself. Don't take an ego hit because you couldn't figure out it all, it doesn't mean you're not smart or good.
+2. It takes time... sometimes a lot of time. You might not have it all done in a day, 2 days, a week, a month. Big projects and goals can take major amounts of time to complete. Take your time to learn and do things **right** it will pan out better in the end. (Patience)
+3. Notes, notes, damn notes. Don't keep all that magnificence in your head, put it on paper, or in here. Take pictures of diagrams and models as well for archival. Writing notes helps put things into better perspective, and it allows you to share with others!
+4. Plans, proper planning prevents piss poor performance, it's worth the time and thought investment.
+5. Take time to make proper designs and models, use the digital tools you have at your disposal, don't try to be some magical genius who can do it all in his head, because you can't
+6. Slow and steady wins the race, don't be discouraged by others achievements, just focus on what you're doing and keep at it.
