@@ -269,7 +269,7 @@ Where $\eta_{1}$ is the $\eta$ of the media the incident wave is travelling in, 
 
 We also define
 $$
-\tau = \frac{E_{t}}{E_{0}} = \frac{2\eta_{2}}{\eta_{2}+\eta_{1}}=1+\Gamma = \text{reflection coefficient}
+\tau = \frac{E_{t}}{E_{0}} = \frac{2\eta_{2}}{\eta_{2}+\eta_{1}}=1+\Gamma = \text{transmission coefficient}
 $$
 
 The standing wave ratio

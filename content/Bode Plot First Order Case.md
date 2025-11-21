@@ -11,7 +11,7 @@ Note that before $\omega_{c}$ there is no contribution, but after $\omega_{c}$ t
 
 ## Phase Contribution
 Unlike magnitude, which starts at $\omega_{c}$, the phase contribution starts one decade before $\omega_{c}$ and ends one decade after $\omega_{c}$. Keep this in mind as plots can get confusing.
-- Zero $\implies +\frac{\pi}{2} \frac{rad}{dec}$
-- Pole $\implies -\frac{\pi}{2} \frac{rad}{dec}$
+- Zero $\implies +\frac{\pi}{4} \frac{rad}{dec}$
+- Pole $\implies -\frac{\pi}{4} \frac{rad}{dec}$
 
 Another important point to bring up here is that the phase contribution begins and ends, unlike the magnitude contribution which begins, but never ends.

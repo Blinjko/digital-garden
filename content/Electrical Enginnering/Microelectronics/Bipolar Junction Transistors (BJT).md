@@ -1,4 +1,4 @@
-BJT's are a type of active 3 terminal device. The three terminals are called:
+ BJT's are a type of active 3 terminal device. The three terminals are called:
 1. Base
 2. Collector
 3. Emitter
