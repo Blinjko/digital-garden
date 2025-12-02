@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+    Component.SiteImage({filename: "siteImage2.jpg",}),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -39,6 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes(),
   ],
   right: [
     Component.Graph(),
@@ -52,6 +54,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
+    Component.SiteImage({filename: "siteImage2.jpg",}),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -63,6 +66,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes(),
   ],
   right: [],
 }

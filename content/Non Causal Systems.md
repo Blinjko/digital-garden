@@ -1,0 +1,4 @@
+A Non-causal system is a [[Systems|system]] that relies on future inputs to produce the current output. They are also known as Prophetic Systems since they are essentially predicting the future. Naturally, a non causal system cannot be realized in real time for obvious reasons. That does not mean they cannot be realized at all though, since you could have a scenario where you already know all your inputs in the future since they were prerecorded.
+
+## Determined if a system is non causal
+A system is non-causal if, when looking at the system [[Impulse Response]], we see outputs before $t=0$. This means the system gives output before any input could have possibly given, so it is anticipating the future.

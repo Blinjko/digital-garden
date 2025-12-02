@@ -1,0 +1,10 @@
+# Honda 250
+Quad is in good running condition, initial listing price 2,200. This price is overestimated as it is expected to be haggled down a few hundred dollars. Other listings for similar / the same quad are lower prices. They seem to hover around 1800 - 3000 range for working condition no real work needed. Some prices go lower if something is wrong, sometimes to 1200 or 1500. This would probably put the quad's market value at about 1800 I would say. It must also be noted that various websites put the value of my quad is good working condition at 1200 dollars. As of now I have received an offer for 1500, which is lower than what I would like and I probably could negotiate higher.
+
+# Suzuki DR250
+Context is a guy offered to trade this bike for my quad, seems he is interested in an equal trade. The bike can be registered and has the previous registration which is good. The bike is in running condition as well and overall looks pretty decent. The big question here is how valuable is this bike? Is it worth more or less than the quad? If I could sell the bike for a similar amount I'd say its probably equal, but I don't think I could. I think I could sell the bike for 1500 max which puts me on the losing end here which makes more sense. The offer is tempting but the bike might be of less value than the quad. I think a move we can make is to offer cash for the bike and see how much he would sell it to me for. If it's less than 1500 I could definitely sell the quad and buy the bike and have cash in hand.
+
+
+# Suzuki DR350
+In search of finding the value of the DR250 I ended up finding a DR350 with an owner whose willing to trade for my quad and put money on top. How much money is not 100% clear, but he's valuing his bike at 1300, so that puts my quad around 1500-1600 depending on how much he's willing go give.
+Further looking yields other bikes of similar or better quality with a lower price, but they none have any paperwork, which is still a major benefit of the DR250.
