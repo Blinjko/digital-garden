@@ -1,0 +1,5 @@
+- [Autonomous Robots Lab Norway](https://www.autonomousrobotslab.com/) - Literally exactly what I wanted to do. Downside is that it is out of the country but I could be fine.
+- [Carnegie Mellon Robotics Institute](https://www.ri.cmu.edu/research/labs-groups/)
+- [Maryland Robotics](https://robotics.umd.edu/)
+- [UMass Amherst](https://www.umass.edu/engineering/research/research-areas/ai-autonomy-and-robotics)
+- [Stanford](https://src.stanford.edu/labs)
