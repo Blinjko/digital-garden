@@ -1,4 +1,0 @@
-- Design a flight controller for a quad rotor drone (buy the motors, ESC's and rotors)
-	- Maybe design the simulation first and then implement on a micocontroller.
-- Design an ESC for a drone motor, (most current ESC's include a micro processor)
-- Learn to Design a micro controller PCB Board (possibly include in the ESC)

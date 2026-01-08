@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Antennas")
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.name.endsWith(".md")
+    cardSize: 220
